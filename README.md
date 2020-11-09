@@ -1,6 +1,6 @@
 # DataEngineeringII - TP Project 1
 
-###For the instructor Khodor Hammoud
+*For the instructor Khodor Hammoud*
 
 
 *Marc-Antoine Bock and Tanguy Pellerin*
