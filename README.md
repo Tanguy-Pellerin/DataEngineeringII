@@ -9,8 +9,7 @@
 
 #### To be able to run this project you have to write this command in the correct directory :
 ```bash
-docker build -t project . 
-docker run -p 5000:5000 project
+docker-compose up
 ```
 Our project runs on the port 5000.
 
